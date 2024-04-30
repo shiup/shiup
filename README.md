@@ -2,7 +2,7 @@
 
 I am a passionate software nerd (and proud of the term).  I love to solve problems, figure out how things work.  I am lucky to work with some of the smartest and nicest people in the industry, I learnt a lots from them (even when we don't always agree on the next step, or the solution)
 
-My [resume](#./Shiu%20Fun%20Poon%20Resume.pdf) can be found here 
+My [resume](#https://github.com/shiup/shiup/blob/main/Shiu%20Fun%20Poon%20Resume.pdf) can be found here 
 
 
 <!--
