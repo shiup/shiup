@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 So who am I ?  
+
+I am a passionate software nerd (and proud of the term).  I love to solve problems, figure out how things work.  I am lucky to work with some of the smartest and nicest people in the industry, I learnt a lots from them (even when we don't always agree on the next step, or the solution)
+
+My resume can be found here 
+
 
 <!--
 **shiup/shiup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
