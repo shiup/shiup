@@ -4,6 +4,7 @@ I am a passionate software nerd (and proud of the term).  I love to solve proble
 
 My [resume](https://github.com/shiup/shiup/blob/main/resume.md) can be found here 
 
+I recorded how to use [Postman to test OAuth2.0 with IBM APIConnect](https://www.youtube.com/watch?v=-Ha7OST5WvQ), especially with authorization code grant type
 
 <!--
 **shiup/shiup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
