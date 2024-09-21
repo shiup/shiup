@@ -1,15 +1,16 @@
-### Hi there 👋 So who am I ?  
+### Hi there 👋 Who am I?
 
-I am a passionate software nerd (and proud of the term).  I love to solve problems, figure out how things work.  I am lucky to work with some of the smartest and nicest people in the industry, I learnt a lots from them (even when we don't always agree on the next step, or the solution)
+I'm a passionate software engineer with a deep curiosity for how things work and a love for solving complex problems. I'm proud to call myself a software nerd! Throughout my career, I've had the privilege of collaborating with some of the brightest and kindest minds in the industry, constantly learning and growing from these experiences—even when we don’t always see eye to eye on the next steps or solutions.
 
-My [resume](https://github.com/shiup/shiup/blob/main/resume.md) can be found here 
+You can find my [resume here](https://github.com/shiup/shiup/blob/main/resume.md).
 
-I recorded how to use [Postman to test OAuth2.0 with IBM APIConnect](https://www.youtube.com/watch?v=-Ha7OST5WvQ), especially with authorization code grant type
+I’ve also created resources to help others tackle real-world challenges. For example, I recorded a guide on [using Postman to test OAuth2.0 with IBM API Connect](https://www.youtube.com/watch?v=-Ha7OST5WvQ), with a focus on the authorization code grant type.
 
-I put together a series of video, scripting or providing the materials. In the rare case, I actually did the recordings 😄  
-- [official recording on how OAuth can be used with APIC](https://mediacenter.ibm.com/media/IBM+API+ConnectA+Secure+API+Access+with+OAuth/1_l6r8scy7)
-- [Secure the APIs e2e](https://mediacenter.ibm.com/media/Secure+your+APIs+end-to-end/1_ucg6nms3)
-- [API Security Best Practise](https://www.youtube.com/watch?v=taior9PNqQs)
+In addition to recording content, I’ve contributed to various educational materials—sometimes scripting, organizing, or even leading the recordings myself. Here are a few examples:
+- [OAuth with IBM API Connect: A Secure API Access Guide](https://mediacenter.ibm.com/media/IBM+API+ConnectA+Secure+API+Access+with+OAuth/1_l6r8scy7)
+- [End-to-End API Security](https://mediacenter.ibm.com/media/Secure+your+APIs+end-to-end/1_ucg6nms3)
+- [API Security Best Practices](https://www.youtube.com/watch?v=taior9PNqQs)
+
 
 <!--
 **shiup/shiup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
