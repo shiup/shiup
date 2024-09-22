@@ -10,6 +10,7 @@ In addition to recording content, I’ve contributed to various educational mate
 - [OAuth with IBM API Connect: A Secure API Access Guide](https://mediacenter.ibm.com/media/IBM+API+ConnectA+Secure+API+Access+with+OAuth/1_l6r8scy7)
 - [End-to-End API Security](https://mediacenter.ibm.com/media/Secure+your+APIs+end-to-end/1_ucg6nms3)
 - [API Security Best Practices](https://www.youtube.com/watch?v=taior9PNqQs)
+- [Enterprise API Security with Ease](https://www.crowdcast.io/e/enterprise-api-security)
 
 
 <!--
