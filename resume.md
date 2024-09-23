@@ -40,32 +40,42 @@
 #### IBM – Iris/Lotus, Westford, MA  
 **Security Engineer/Team Lead**  *1997 – 2006*
 
-- Orchestrated the first public open-source CA process for PKIX by IBM (Jonah) and Notes public/private key infrastructure, strengthening IBM’s internal and external security capabilities.
-- Programmed and maintained security systems including Access Control Lists (ACLs) and Execution Control Lists (ECLs), implementing First Password Rules to ensure compliance with enterprise security standards.
+- Orchestrated the first public open-source CA process for PKIX by IBM (Jonah) and Notes public/private key infrastructure, strengthening IBM’s internal and external security capabilities
+- Programmed and maintained security systems including Access Control Lists (ACLs) and Execution Control Lists (ECLs), implementing First Password Rules to ensure compliance with enterprise security standards
 
 ### Key Achievements
 
 - **Security Hardening of Microservices Infrastructure**
-  - Led the security hardening of microservices by building robust encryption with authentication, mitigating the risk of unauthorized access and reducing security breaches.
-  - The hardening efforts enabled the product to satisfy FISMA/GovCloud requirements in half the time compared to other integration products in the portfolio.
+  - Led the security hardening of microservices by building robust encryption with authentication, mitigating the risk of unauthorized access and reducing security breaches
+  - The hardening efforts enabled the product to satisfy FISMA/GovCloud requirements in half the time compared to other integration products in the portfolio
 
 - **FISMA/GovCloud/FedRAMP Compliance Initiative**
-  - Collaborated closely with 6 component leads and conducted interviews with external vendors to identify missing requirements.
-  - Defined 168 necessary tasks, aligning with federal security standards and cloud deployment environments to enable the product to meet stringent regulatory benchmarks.
-  - Engaged with Product Owners and Release Management to coordinate the timeline and support the commitment by 2025.
+  - Collaborated closely with 6 component leads and conducted interviews with external vendors to identify missing requirements
+  - Defined 168 necessary tasks, aligning with federal security standards and cloud deployment environments to enable the product to meet stringent regulatory benchmarks
+  - Engaged with Product Owners and Release Management to coordinate the timeline and support the commitment by 2025
 
 - **Introduction of AI to API Security for IBM API Connect**
-  - Partnered with vendors in the space, quickly positioning IBM API Connect as a key player in the evolving runtime API security landscape using AI/LLM in a record time of 3 months.
-  - This integration secured over 15+ customers and additional revenue exceeding two million for IBM with minimal effort.
+  - Partnered with vendors in the space, quickly positioning IBM API Connect as a key player in the evolving runtime API security landscape using AI/LLM in a record time of 3 months
+  - This integration secured over 15+ customers and additional revenue exceeding two million for IBM with minimal effort
 
 - **Championing AI/LLM Applications**
-  - Advocated for the use of LLM in the development and governance phases of the API, resulting in adaptive runtime API behavior based on context, allowing developers with limited security knowledge to create secured APIs.
+  - Advocated for the use of LLM in the development and governance phases of the API, resulting in adaptive runtime API behavior based on context, allowing developers with limited security knowledge to create secured APIs
 
 - **OAuth Provider Development for IBM DataPower**
-  - Designed and built an extensible OAuth Provider framework, which was mirrored in subsequent gateway designs.
+  - Designed and built an extensible OAuth Provider framework, which was mirrored in subsequent gateway designs
 
 - **Security Patents and Awards**
-  - Holder of 4 patents covering security, spanning from securing firmware images during deployment to custom runtime decision on execution control lists (RDECL). The RDECL patent, US-7730525, is considered particularly valuable for its On-Behalf-Of concept. Awarded 2 Outstanding Technical Achievement Awards and recognized as a Breakthrough Technical Eminence participant.
+  - Holder of 4 patents covering security, spanning from securing firmware images during deployment to custom runtime decisions on execution control lists (RDECL). The RDECL patent, US-7730525, is considered particularly valuable for its On-Behalf-Of concept
+    - [US-9626166-B1 - Common Secure Cloud Appliance Image and Deployment](https://portal.unifiedpatents.com/patents/patent/US-9626166-B1)
+      - Ensures that digital rights management (DRM) is maintained by allowing controlled access to content based on pre-defined rights or usage rules. It outlines mechanisms to authenticate users, manage access rights, and provide encrypted delivery of content to prevent unauthorized distribution or piracy
+    - [US-9563781-B2 - Directional Optimization for Policy Evaluation](https://portal.unifiedpatents.com/patents/patent/US-9563781-B2)
+      - Focuses on improving the efficiency of evaluating policies in systems that enforce security or access control rules. The invention introduces methods for optimizing the order and direction in which policy rules are evaluated, reducing computational overhead and improving system performance. By prioritizing certain policies based on context or previous results, this approach enhances the speed and accuracy of policy enforcement, especially in large-scale environments with complex rule sets. It ensures that decisions are made faster without compromising security
+    - [US-9094194-B2 - Method and System for Automating the Recovery of a Credential Store when a User Has Forgotten Their Password Using a Temporary Key Pair Created Based on a New Password Provided by the User](https://portal.unifiedpatents.com/patents/patent/US-9094194-B2)
+      - This patent is for a system that simplifies password recovery for users. When a user forgets their password, a temporary key pair is generated based on a new password provided by the user. This temporary key pair is then used to securely access and recover the credential store without compromising the user's stored data. This method enhances both security and user convenience during password recovery processes
+    - [US-7730525-B2 - Method, System, and Computer Program Product for Limiting Authorization of an Executable Action to an Application Session](https://portal.unifiedpatents.com/patents/patent/US-7730525-B2)
+      - The present invention provides a method, system, and computer program product for limiting authorization of an executable action to an application session. A method in accordance with an embodiment of the present invention comprises: generating an alert in response to an execution of an action in an application; and allowing a user to temporarily authorize the execution of the action for a current session of the application. The authorization for the execution of the action is removed when the current session of the application ends.Method, system, and computer program product for limiting authorization of an executable action to an application session
+  - Awarded 2 Outstanding Technical Achievement Awards
+  - Recognized as a Breakthrough Technical Eminence
 
 ### Education
 
