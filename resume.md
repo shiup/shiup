@@ -22,8 +22,7 @@
 ### Professional Experience
 
 #### IBM - API Connect – Integration (San Jose, CA)  
-**Security Architect/STSM**  
-*2018 – Present*
+**Security Architect/STSM**  *2018 – Present*
 
 - Architected, designed, and developed a robust authentication and authorization framework incorporating a customizable Role-Based Access Control (RBAC) model that enhanced product security.
 - Led the integration of advanced AI capabilities into API governance and enforcement, positioning IBM API Connect as a next-generation solution in the market.
@@ -33,16 +32,14 @@
 - Regularly met with customers to address security concerns and discuss API security architecture best practices.
 
 #### IBM - DataPower (Cambridge/Littleton, MA)  
-**Security Architect/Engineer/STSM**  
-*2006 – 2018*
+**Security Architect/Engineer/STSM**  *2006 – 2018*
 
 - Developed and refined authentication/authorization (AAA) frameworks ensuring compliance with extensible OIDC, OAuth, JW*, SAML, WS-Security open standards.
 - Developed the first native OAuth provider in DataPower, handling thousands of requests per second, chosen for API Management solutions due to its scalability and flexibility.
 - Enhanced security protocols in the development and deployment phases, exceeding IBM's internal security benchmarks.
 
 #### IBM – Iris/Lotus (Westford, MA)  
-**Security Engineer/Team Lead**  
-*1997 – 2006*
+**Security Engineer/Team Lead**  *1997 – 2006*
 
 - Orchestrated the first public open-source CA process for PKIX by IBM (Jonah) and Notes public/private key infrastructure, strengthening IBM’s internal and external security capabilities.
 - Programmed and maintained security systems, including Access Control Lists (ACLs) and Execution Control Lists (ECLs), ensuring compliance with enterprise security standards.
