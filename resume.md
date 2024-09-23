@@ -1,7 +1,6 @@
 ## Shiu Fun Poon
 
 **Address:** San Mateo, California  
-**Phone:** 617-438-8958  
 **Email:** [shiufunpoon@gmail.com](mailto:shiufunpoon@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/shiufun](https://www.linkedin.com/in/shiufun)  
 **GitHub:** [https://github.com/shiup](https://github.com/shiup)  
