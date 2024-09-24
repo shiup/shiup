@@ -22,12 +22,11 @@
 **Security Architect/Senior Technical Staff Member**  *2018 – Current*
 
 - Direct a team of 8 engineers to integrate advanced AI capabilities into API governance and enforcement, resulting in AI gateway, Governance, and Discovery services, positioning IBM API Connect as a next-generation solution in AI in the market
-- Supervise efforts to secure FedRAMP, GovCloud, and FISMA compliance by leading a 12-member team. Success in GovCloud and FISMA opened multimillion-dollar opportunities in the government sector
+- Supervise efforts to secure FedRAMP, GovCloud, and FISMA compliance by leading a 12-member team. Successful compliance with GovCloud and FISMA created multimillion-dollar opportunities in the government sector
 - Collaborate with cutting-edge OEM partners to enhance AI runtime API security and stay ahead of evolving cyber threats, resulting in 15+ signed contracts for IBM with minimal resource impact in 2024
 - Decrease security vulnerabilities across deployments by 75% by adopting CI/CD to manage security risks, reducing developer intervention and minimizing recurring issues, leading to faster resolutions
 - Achieve 100% alignment between API/AI security initiatives and product owners, resulting in secure and business-relevant product features for each release
 - Boost customer satisfaction by 20% through regular security consultations and architecture discussions at high-profile conferences like APIDays, APIWorld, TechConf, THINKS, and RSA, building trust in API security architecture and aligning solutions with customer requirements
-
 
 #### IBM - DataPower, Cambridge/Littleton, MA  
 **Security Architect/Engineer/Senior Technical Staff Member**  *2006 – 2018*
@@ -46,20 +45,20 @@
 ### Key Achievements
 
 - **Security Hardening of Microservices Infrastructure**
-  - Led the security hardening of microservices by building robust encryption with authentication, mitigating the risk of unauthorized access and reducing security breaches
-  - The hardening efforts enabled the product to satisfy FISMA/GovCloud requirements in half the time compared to other integration products in the portfolio
+  - Lead the security hardening of microservices by building robust encryption with authentication, mitigating the risk of unauthorized access and reducing security breaches
+  - Enable the product to satisfy FISMA/GovCloud requirements in half the time compared to other integration products in the portfolio
 
 - **FISMA/GovCloud/FedRAMP Compliance Initiative**
-  - Collaborated closely with 6 component leads and conducted interviews with external vendors to identify missing requirements
-  - Defined 168 necessary tasks, aligning with federal security standards and cloud deployment environments to enable the product to meet stringent regulatory benchmarks
-  - Engaged with Product Owners and Release Management to coordinate the timeline and support the commitment by 2025
+  - Collaborate closely with 6 component leads and conducted interviews with external vendors to identify missing requirements
+  - Define 168 necessary tasks, aligning with federal security standards and cloud deployment environments to enable the product to meet stringent regulatory benchmarks
+  - Engage with Product Owners and Release Management to coordinate the timeline and support the commitment by 2025
 
 - **Introduction of AI to API Security for IBM API Connect**
-  - Partnered with vendors in the space, quickly positioning IBM API Connect as a key player in the evolving runtime API security landscape using AI/LLM in a record time of 3 months
-  - This integration secured over 15+ customers and additional revenue exceeding two million for IBM with minimal effort
+  - Partner with vendors in the space, quickly establishing IBM API Connect as a key player in the evolving runtime API security landscape using AI/LLM in a record time of 3 months
+  - Secure over 15+ customers and additional revenue exceeding two million for IBM with minimal effort
 
 - **Championing AI/LLM Applications**
-  - Advocated for the use of LLM in the development and governance phases of the API, resulting in adaptive runtime API behavior based on context, allowing developers with limited security knowledge to create secured APIs
+  - Advocate for the use of LLM in the development and governance phases of the API, resulting in adaptive runtime API behavior based on context, allowing developers with limited security knowledge to create secured APIs
 
 - **OAuth Provider Development for IBM DataPower**
   - Designed and built an extensible OAuth Provider framework, which was mirrored in subsequent gateway designs
