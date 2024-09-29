@@ -37,7 +37,7 @@
 - Presented at key industry events and coordinated with external partners to enhance product offerings, driving revenue growth with each hardware refresh and release, resulting in a fourfold increase in market share since joining
 
 #### IBM – Iris/Lotus, Westford, MA  
-**Security Engineer/Team Lead**  *1997 – 2006*
+**Security Engineer/Team Lead**  *2002 – 2006*
 
 - Orchestrated the first public open-source CA process for PKIX by IBM (Jonah) and Notes public/private key infrastructure, strengthening IBM’s internal and external security capabilities
 - Programmed and maintained security systems including Access Control Lists (ACLs) and Execution Control Lists (ECLs), implementing First Password Rules to ensure compliance with enterprise security standards
