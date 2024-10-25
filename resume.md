@@ -1,5 +1,5 @@
 # Shiu Fun Poon  
-**Phone:** 617-438-8958 | **Email:** [shiufpoon@gmail.com](mailto:shiufpoon@gmail.com) | **Location:** San Mateo, Bay Area, CA  
+**Location:** San Mateo, Bay Area, CA  
 **LinkedIn:** [https://www.linkedin.com/in/shiufun](https://www.linkedin.com/in/shiufun)  
 **GitHub:** [https://github.com/shiup](https://github.com/shiup)  
 **Medium:** [https://medium.com/@shiufunpoon](https://medium.com/@shiufunpoon)
