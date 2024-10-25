@@ -6,8 +6,8 @@
 
 ## Core Qualifications
 - **Security Architecture & Design**: Expertise in secure frameworks using OAuth 2.0, OpenID Connect, JWT (JWS, JWE), OWASP (API, LLM), SAML, and WS-* standards
-- **Programming Languages**: JavaScript, C/C++, XSLT, Java, Go, SQL, (No)SQL
-- **Web Technologies & Protocols**: REST, GraphQL, SOAP/XML, JSON, HTTP/HTTPS
+- **Programming Languages**: JavaScript, C/C++, XSLT, Java, Python, Go, SQL, (No)SQL
+- **Web Technologies & Protocols**: REST, GraphQL, SOAP/XML, JSON, HTTP/HTTPS, FastAPI
 - **Security Frameworks**: Role-Based Access Control (RBAC), IAM, OIDC, OAuth, JW*, SAML, XACML, Kerberos, API Security, AI/LLM Security
 - **Operating Systems**: Mac, UNIX, Windows
 - **Team Leadership & Collaboration**: Strong communicator with a proven ability to lead cross-functional teams of 11 individuals, fostering collaboration across diverse technical roles and business stakeholders
